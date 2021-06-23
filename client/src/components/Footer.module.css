@@ -1,0 +1,22 @@
+.container{
+    width: 100%;
+    background: #004242;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+.h2{
+    color: white;
+    margin-top: 50px;
+}
+.info{
+    text-align: center;
+    width: 800px;
+    color: white;
+    font-size: 18px;
+    margin-top:50px ;
+    margin-bottom:50px ;
+}
